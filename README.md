@@ -1,5 +1,6 @@
 # appli-reactnative FRONT 
 npm install
+
 npm start
 
 --> la connection au server front se lance
